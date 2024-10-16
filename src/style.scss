@@ -1,0 +1,21 @@
+.wishlist-button {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+
+	display: inline-block;
+	background-color: transparent;
+	border: 0;
+	outline: 0;
+	cursor: pointer;
+
+	&.is-product-wishlisted {
+		svg {
+			fill: #dc3e3e;
+		}
+
+		svg > path {
+			stroke-width: 0;
+		}
+	}
+}

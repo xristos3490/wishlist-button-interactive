@@ -1,0 +1,21 @@
+# Editors
+project.xml
+project.properties
+.buildpath
+.project
+.settings*
+sftp-config.json
+.idea
+.vscode
+
+# Build tools
+/node_modules/
+npm-debug.log
+.sass-cache/
+
+# OS X metadata
+.DS_Store
+
+# Windows junk
+Thumbs.db
+
