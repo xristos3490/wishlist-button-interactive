@@ -5,12 +5,12 @@ An interactive wishlist button block powered by the WordPress Interactivity API 
 
 ### Description
 
-This plugin provides an example of a product wishlist button using the Interactivity API, designed to work seamlessly with WooCommerce.
+This plugin provides an example of a product wishlist button using the Interactivity API, designed to work with WooCommerce.
 
 ### Installation
 
 1. Upload the plugin files to the `/wp-content/plugins/wishlist-button-interactive` directory.
-2. Activate the plugin through the 'Plugins' screen in WordPress.
+2. Activate the plugin through the 'Plugins' screen.
 
 ### Frequently Asked Questions
 
@@ -27,4 +27,4 @@ Yes, the block is compatible with most WordPress themes. Some custom styling may
 ### Changelog
 
 **0.1.0**  
-* Initial release with interactive wishlist functionality for WooCommerce products.
+* Initial release.
