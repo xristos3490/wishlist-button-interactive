@@ -22,7 +22,7 @@ Yes, the block is compatible with most WordPress themes. Some custom styling may
 
 ### Screenshots
 
-![preview](https://cdn-std.droplr.net/files/acc_1208648/BVLib2)
+<img width="1251" alt="Screenshot 2024-10-17 at 3 55 41 AM" src="https://github.com/user-attachments/assets/8f81d3dc-c8d6-4608-bbb5-555abf229678">
 
 ### Changelog
 
